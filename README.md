@@ -42,7 +42,7 @@
 
 ### 🚀 Projetos em destaque
 
-- 📈 [Home broker](https://github.com/eseiji/home-broker) – Microserviço com Kafka e Go para simulação de corretora de investimentos.
+- 📈 [Home broker](https://github.com/eseiji/home-broker) – Simulação de plataforma de investimentos.
 
 ---
 
